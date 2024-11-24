@@ -1,14 +1,14 @@
+body{
+    margin-top: 50px;
+    color:aliceblue;
+    background-color: black;
+}
 form{
     width: 200px;
     overflow: hidden;
     margin: auto;
     margin: 20 0 0 400px;
     padding: 20px;
-}
-body{
-    margin-top: 50px;
-    color:aliceblue;
-    background-color: black;
 }
 label{
     padding-left: 10px;
